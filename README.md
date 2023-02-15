@@ -1,5 +1,5 @@
 # FS22-XML-schema
-A static source for XML and i3d schema used in Farming Simulator 22.  Reference these raw XSD files in your XML or i3d files to make your schema validation system agnostic.  For example, the standard root element of an i3d file looks like this:
+A static source for XML and i3d schema used in Farming Simulator 22.  Reference these raw XSD files in your XML or i3d files to make your schema validation system agnostic.  The default schema location URL is no longer valid for public use.  For example, the standard root element of an i3d file looks like this:
 
 ```xml
 <?xml version="1.0" encoding="iso-8859-1"?>
